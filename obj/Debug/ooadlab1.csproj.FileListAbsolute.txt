@@ -1,0 +1,8 @@
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\bin\Debug\ooadlab1.exe.config
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\bin\Debug\ooadlab1.exe
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\bin\Debug\ooadlab1.pdb
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\obj\Debug\ooadlab1.csproj.AssemblyReference.cache
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\obj\Debug\ooadlab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\obj\Debug\ooadlab1.csproj.CoreCompileInputs.cache
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\obj\Debug\ooadlab1.exe
+C:\Users\boyar\Documents\Политех\ООА и Дизайн\ooadlab1\obj\Debug\ooadlab1.pdb

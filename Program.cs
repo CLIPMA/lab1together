@@ -19,6 +19,11 @@ namespace ooadlab1
             {
                 Console.WriteLine(i);
             }
+            // Жора
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i + "Привет максим боярко");
+            }
         }
     }
 }
